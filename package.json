@@ -27,7 +27,7 @@
     "lit": "3.3.0",
     "proj4": "2.15.0",
     "react": "18.3.1",
-    "react-dom": "18.3.1",
+    "react-dom": "19.1.0",
     "react-router": "7.5.2"
   },
   "devDependencies": {
@@ -36,7 +36,7 @@
     "@rollup/plugin-replace": "6.0.2",
     "@rollup/pluginutils": "5.1.4",
     "@types/react": "18.3.20",
-    "@types/react-dom": "18.3.6",
+    "@types/react-dom": "19.1.3",
     "@vaadin/hilla-generator-cli": "24.8.0-alpha6",
     "@vaadin/hilla-generator-core": "24.8.0-alpha6",
     "@vaadin/hilla-generator-plugin-backbone": "24.8.0-alpha6",
@@ -88,7 +88,7 @@
       "lit": "3.3.0",
       "proj4": "2.15.0",
       "react": "18.3.1",
-      "react-dom": "18.3.1",
+      "react-dom": "19.1.0",
       "react-router": "7.5.2"
     },
     "devDependencies": {
@@ -97,7 +97,7 @@
       "@rollup/plugin-replace": "6.0.2",
       "@rollup/pluginutils": "5.1.4",
       "@types/react": "18.3.20",
-      "@types/react-dom": "18.3.6",
+      "@types/react-dom": "19.1.3",
       "@vaadin/hilla-generator-cli": "24.8.0-alpha6",
       "@vaadin/hilla-generator-core": "24.8.0-alpha6",
       "@vaadin/hilla-generator-plugin-backbone": "24.8.0-alpha6",
